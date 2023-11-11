@@ -1,26 +1,5 @@
 # Lab1-ACME
 
-Veuiller afficher la répartition des tâches, ainsi que le travail effectué par chacun des membres de l'équipe
-ceci est requis afin de donner une répartition égale des tâches et pour éviter que le lab soit répartis inégalement.
-
-[16:56] Hicham, Younes (Guest)
-mehdi 2 premieres pages
-building et catcher
-
-[16:57] Touopei Tiwa, Cyrille (Guest)
-Cutter et Diatorting
-
-[16:58] Hicham, Younes (Guest)
-suzie 2 pages : 
-transportation and launchers
-
-[16:59] Hicham, Younes (Guest)
-Kamal : heavywights et explosive
-
-[17:00] Hicham, Younes (Guest)
-moi : contact , index
-
-*****************************************************
 
 Les propositions pour le développement du site web d'ACME Co. :
 
